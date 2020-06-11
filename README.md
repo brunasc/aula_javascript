@@ -1,2 +1,2 @@
 # aula_javascript
-introdução ao JavaScript
+Jogo snake desenvolvido em javascript no curso da Digital Innovation One
